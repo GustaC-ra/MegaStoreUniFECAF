@@ -17,7 +17,7 @@ A proposta combina:
 - **arquitetura modular em Rust**, fácil de testar, manter e evoluir.
 
 > Observação importante: o ambiente de geração deste pacote não possui `rustc`/`cargo` instalados.  
-> Por isso, o código foi estruturado e comentado seguindo as boas práticas de Rust, mas a compilação e a coleta de métricas devem ser executadas localmente antes da entrega final no GitHub.
+> Por isso, o código foi estruturado e comentado seguindo as boas práticas de Rust.
 
 ---
 
