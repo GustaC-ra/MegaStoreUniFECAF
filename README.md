@@ -85,41 +85,29 @@ megastore-search/
 
 ```bash
 git clone https://github.com/seu-usuario/megastore-search.git
-cd megastore-search
+cd MegaStoreUniFECAF
 ```
 
-### 5.3. Executar uma busca
+### 5.3. Executar buscas unitárias
 
 ```bash
-cargo run -- \
-  --products data/products.json \
-  --relations data/relations.json \
-  search \
-  --query "fone bluetooth" \
-  --category "Audio" \
+cargo run -- search --query "notebook gamer"
+cargo run -- search --query "wifi" --category "Casa Inteligente" --max-price 200
+cargo run -- recommend --product-id P1004 --limit 2
+cargo bench
+```
+
+### 5.4. Executar buscas com filtros combinados
+
+```bash
+cargo run -- `
+  --products data/products.json `
+  --relations data/relations.json `
+  search `
+  --query "fone bluetooth" `
+  --category "Audio" `
   --limit 5
 ```
-
-### 5.4. Executar busca com produto-semente para boost via grafo
-
-```bash
-cargo run -- \
-  search \
-  --query "bluetooth" \
-  --seed-product P1001 \
-  --limit 5
-```
-
-### 5.5. Executar recomendação por produto
-
-```bash
-cargo run -- \
-  recommend \
-  --product-id P1004 \
-  --limit 3
-```
-
----
 
 ## 6. Como executar os testes
 
