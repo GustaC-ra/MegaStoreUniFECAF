@@ -1,0 +1,110 @@
+[
+  {
+    "id": "P1001",
+    "name": "Fone Bluetooth NoiseCancel X",
+    "brand": "SoundMax",
+    "category": "Audio",
+    "price": 399.90,
+    "tags": ["fone", "bluetooth", "premium", "cancelamento"],
+    "description": "Fone premium com cancelamento de ruído ativo."
+  },
+  {
+    "id": "P1002",
+    "name": "Caixa de Som Portátil BeatGo",
+    "brand": "SoundMax",
+    "category": "Audio",
+    "price": 249.90,
+    "tags": ["caixa", "som", "bluetooth", "portatil"],
+    "description": "Caixa resistente à água para uso externo."
+  },
+  {
+    "id": "P1003",
+    "name": "Smart TV 55 4K Vision",
+    "brand": "ViewTech",
+    "category": "TV e Video",
+    "price": 2899.90,
+    "tags": ["tv", "4k", "streaming", "smart"],
+    "description": "Televisão 4K com aplicativos integrados."
+  },
+  {
+    "id": "P1004",
+    "name": "Notebook Gamer Titan 15",
+    "brand": "MegaTech",
+    "category": "Informatica",
+    "price": 6499.90,
+    "tags": ["notebook", "gamer", "ssd", "rtx"],
+    "description": "Notebook de alto desempenho para jogos."
+  },
+  {
+    "id": "P1005",
+    "name": "Mouse Sem Fio Ergo Fit",
+    "brand": "MegaTech",
+    "category": "Informatica",
+    "price": 129.90,
+    "tags": ["mouse", "sem fio", "ergonomico"],
+    "description": "Mouse ergonômico para produtividade."
+  },
+  {
+    "id": "P1006",
+    "name": "Teclado Mecânico RGB Strike",
+    "brand": "MegaTech",
+    "category": "Informatica",
+    "price": 349.90,
+    "tags": ["teclado", "mecanico", "rgb"],
+    "description": "Teclado gamer com switches táteis."
+  },
+  {
+    "id": "P1007",
+    "name": "Tênis Corrida Aero Light",
+    "brand": "RunFast",
+    "category": "Calcados",
+    "price": 329.90,
+    "tags": ["tenis", "corrida", "leve"],
+    "description": "Tênis leve para corrida urbana."
+  },
+  {
+    "id": "P1008",
+    "name": "Jaqueta Corta Vento Trail",
+    "brand": "RunFast",
+    "category": "Vestuario",
+    "price": 219.90,
+    "tags": ["jaqueta", "corrida", "vento", "esporte"],
+    "description": "Jaqueta esportiva para atividades ao ar livre."
+  },
+  {
+    "id": "P1009",
+    "name": "Cafeteira Programável Aroma",
+    "brand": "HomeBrew",
+    "category": "Casa e Cozinha",
+    "price": 279.90,
+    "tags": ["cafeteira", "cafe", "cozinha", "programavel"],
+    "description": "Cafeteira com temporizador."
+  },
+  {
+    "id": "P1010",
+    "name": "Conjunto de Panelas Ceramic Pro",
+    "brand": "HomeBrew",
+    "category": "Casa e Cozinha",
+    "price": 589.90,
+    "tags": ["panelas", "cozinha", "ceramica"],
+    "description": "Conjunto com 5 peças antiaderentes."
+  },
+  {
+    "id": "P1011",
+    "name": "Câmera de Segurança Wi-Fi 360",
+    "brand": "SafeHome",
+    "category": "Casa Inteligente",
+    "price": 189.90,
+    "tags": ["camera", "wifi", "seguranca", "iot"],
+    "description": "Monitoramento residencial com aplicativo."
+  },
+  {
+    "id": "P1012",
+    "name": "Lâmpada Inteligente Color",
+    "brand": "SafeHome",
+    "category": "Casa Inteligente",
+    "price": 79.90,
+    "tags": ["lampada", "wifi", "iot", "smart"],
+    "description": "Lâmpada controlada por aplicativo."
+  }
+]
